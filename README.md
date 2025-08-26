@@ -1,1 +1,5 @@
 # LAB00
+
+Description
+
+Some basic Git commands are:
